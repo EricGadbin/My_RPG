@@ -1,0 +1,10 @@
+between 1 to 10
+sword of metal,assets/item/sw2.png
+ordinary sword of Aru,assets/item/sw3.png
+sword of steel,assets/item/sw1.png
+novice's sword,assets/item/sw0.png
+between 10 to 20
+sword of metal reinforced,assets/item/sw1.png
+avenced sword of Aru,assets/item/sw3.png
+sword of steel reinforced,assets/item/sw1.png
+king sword,assets/item/sw4.png

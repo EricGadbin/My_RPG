@@ -1,0 +1,10 @@
+between 1 to 10
+chest of metal,assets/item/ch1.png
+odinary chest of Aru,assets/item/ch4.png
+chest of steel,assets/item/ch3.png
+novice's chest,assets/item/ch0.png
+between 10 to 20
+chest of metal reinforced,assets/item/ch1.png
+avenced chest of Aru,assets/item/ch4.png
+chest of steel reinforced,assets/item/ch3.png
+apprentice chest,assets/item/ch0.png

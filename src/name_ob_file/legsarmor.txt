@@ -1,0 +1,10 @@
+between 1 to 10
+legs of metal,assets/item/pants2.png
+odinary golden legs,assets/item/pants4.png
+legs of steel,assets/item/pants3.png
+novice's legs,assets/item/pants1.png
+between 10 to 20
+legs of metal reinforced,assets/item/pants2.png
+avenced golden legs,assets/item/pants4.png
+legs of steel reinforced,assets/item/pants3.png
+apprentice legs,assets/item/pants1.png

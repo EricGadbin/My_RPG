@@ -1,0 +1,10 @@
+between 1 to 10
+necklace of gold,assets/item/necklace1.png
+odinary ring of Aru,assets/item/ring3.png
+king necklace,assets/item/necklace2.png
+novice's ring,assets/item/ring1.png
+between 10 to 20
+ring of metal reinforced,assets/item/ring2.png
+avenced ring of Aru,assets/item/ring3.png
+golden necklace reinforced,assets/item/necklace1.png
+apprentice necklace,assets/item/necklace2.png
